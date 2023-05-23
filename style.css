@@ -8,7 +8,7 @@ font-size: 50px;
 .orange-color{
     color:orange;
 }
-section{
+.flexible-container{
     display:flex;
     margin-bottom:150px ;
 }
